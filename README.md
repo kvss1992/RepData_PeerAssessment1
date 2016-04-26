@@ -164,5 +164,7 @@ A valid submission will look something like (this is just an **example**!)
 ```r
 https://github.com/rdpeng/RepData_PeerAssessment1
 
+15 commits
 
+8d2301fe188202fccf8c63eba179ca2da604be93
 ```
